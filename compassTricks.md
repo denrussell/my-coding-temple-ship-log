@@ -1,0 +1,1 @@
+To use a compass in navigation, first, you must know your destination and where it is in the map in terms of North, South, East and West. When you open your compass, it will always tell you where your north is. Then you will have an idea where you are and where you are going. It is also helpful to have a reference point such as mountains, stars or where the sun rises.
